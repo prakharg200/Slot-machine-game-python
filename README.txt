@@ -1,1 +1,0 @@
-A betting game written in Python where player can spin the reels and win if same symbol appears in a row.
